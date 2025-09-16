@@ -1,4 +1,4 @@
-# Projeto de Site - Página Principal
+# Projeto de Site 
 
 Criei um site usando **HTML e CSS**, seguindo a estrutura disponibilizada na aula.  
 
