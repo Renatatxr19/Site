@@ -25,5 +25,5 @@ Criei um site usando **HTML e CSS**, seguindo a estrutura disponibilizada na aul
 - Todas as páginas seguem a estrutura solicitada e podem ser visualizadas localmente.
 
 ## Disponivel:
-http://127.0.0.1:3000/index.html
+renata-teixeira-de-jesus.netlify.app
 
